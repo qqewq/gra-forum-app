@@ -1,0 +1,21 @@
+gra-forum-app/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── backend/
+│   ├── app/
+│   │   ├── agents/
+│   │   ├── llm/
+│   │   ├── tasks/
+│   │   └── tools/
+│   ├── tests/
+│   └── requirements.txt
+├── cli/
+├── docs/
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── Makefile
+├── pyproject.toml
+├── README.md
+└── setup.py
